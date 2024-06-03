@@ -8,8 +8,8 @@ for(n in numeros){
     console.log(n)
 }*/
 let fat = 1
-let num = 5
-while(fat < 5){
+let num = 7
+while(fat < 7){
     num *= fat
     fat++
     console.log(num)
